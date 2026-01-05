@@ -1,3 +1,7 @@
+sudhu app ta baniye diyechi basic set up ta kore diyechi just nijer branch ta baniye nis 
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
